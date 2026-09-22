@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Created by venv; see https://docs.python.org/3/library/venv.html
+.venv/
+pyvenv.cfg
+Scripts/
+
 # Distribution / packaging
 .Python
 build/
